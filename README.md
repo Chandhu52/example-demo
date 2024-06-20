@@ -1,4 +1,4 @@
-echo "# example-demo" >> README.md
+echo "# example-demo" >> Chandra
 git init
 git add README.md
 git commit -m "first commit"
